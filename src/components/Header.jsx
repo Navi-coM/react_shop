@@ -1,7 +1,3 @@
-// import { NavLink, Link } from 'react-router-dom';
-
-// const setActive = ({isActive}) => isActive ? 'active-link' : '';
-
 
 function Header() {
     return (
@@ -13,7 +9,7 @@ function Header() {
 
                 <ul id="nav-mobile" className="right hide-on-med-and-down">
                     <li>
-                        <a href="/">Home</a>
+                        <a href="https://navi-com.github.io/react_shop/" target="_blank">Home</a>
                         {/* <NavLink to='/' className={setActive}>Home</NavLink> */}
                     </li>
                     <li>
